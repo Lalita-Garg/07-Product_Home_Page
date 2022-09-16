@@ -14,7 +14,11 @@ This Project is a Simple Static Responsive webpage created by using just HTML an
 
 ## Preview | [Live Link]()
 ***
-![ScreenShot](./screenshots/screenshot1.PNG)![ScreenShot](./screenshots/screenshot2.PNG)![ScreenShot](./screenshots/screenshot3.PNG)
+![ScreenShot](./screenshots/screenshot1.PNG)
+***
+![ScreenShot](./screenshots/screenshot2.PNG)
+***
+![ScreenShot](./screenshots/screenshot3.PNG)
 
 ## Technologies Used 
 ***
