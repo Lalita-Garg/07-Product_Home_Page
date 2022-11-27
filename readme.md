@@ -12,7 +12,7 @@ This Project is a Simple Static Responsive webpage created by using just HTML an
 - Navbar Designing 
 - Responsive Design
 
-## Preview | [Live Link](https://07-producthomepage.netlify.app/)
+## Preview | [Live Link](https://06-plant-webpage-jndi.vercel.app/)
 ***
 ![ScreenShot](./screenshots/screenshot1.PNG)
 ***
